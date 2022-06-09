@@ -5,6 +5,14 @@
  
 <img style="vertical-align: text-bottom;" src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E8%AE%A2%E9%98%85-4000%2B-green"/>
 
+<h3>🛠 Used Tech Stack</h3>
+
+- 🔭  JavaScript | Vue3 | React | HTML5 | CSS3
+- ⚡  Babel | Postcss 
+- 🔧  Webpack | Vite | Node.js 
+- 🌱  Nginx | Fiddler | Wireshark 
+
+
 ![Andyqier88's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyqier88&show_icons=true&theme=dark)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyqier88&layout=compact)](https://github.com/andyqier88) -->
 
