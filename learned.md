@@ -23,3 +23,18 @@ const outputDirPix = str.match(buildFilepix)[0];
 article: https://juejin.cn/post/7110941851103789069
 
 project: https://github.com/andyqier88/omd
+
+### 2022-06-22
+weppack config otions for ignore a module, like this
+
+```
+module.exports = {
+  //...
+  resolve: {
+    alias: {
+      'ignored-module': false,
+      './ignored-module': false,
+    },
+  },
+};
+```
