@@ -38,3 +38,15 @@ module.exports = {
   },
 };
 ```
+```
+// rollup.config.js
+
+output: [{
+        sourcemap: true,
+        format: 'esm',
+        file: pkg.module,
+        paths: {
+          '@/api/camunda/list': '/@/api/camunda/list'
+        }
+      }]
+```
