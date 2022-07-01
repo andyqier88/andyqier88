@@ -55,3 +55,15 @@ output: [{
 
 test case website
 https://jsbench.me/
+
+### 2022-07-01
+https://www.joshwcomeau.com/javascript/terminal-for-js-devs/#getting-set-up
+
+1. 微软商店
+2. serch linux
+<img width="745" alt="linux" src="https://user-images.githubusercontent.com/10238991/176809102-a2a00752-8352-4199-b80d-240419a51837.png">
+
+3. sudo apt-get install zsh 
+<img width="744" alt="install zsh" src="https://user-images.githubusercontent.com/10238991/176809159-bf0b3430-d124-47e4-88b9-d30282b602c8.png">
+
+
