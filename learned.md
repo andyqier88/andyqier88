@@ -66,4 +66,22 @@ https://www.joshwcomeau.com/javascript/terminal-for-js-devs/#getting-set-up
 3. sudo apt-get install zsh 
 <img width="744" alt="install zsh" src="https://user-images.githubusercontent.com/10238991/176809159-bf0b3430-d124-47e4-88b9-d30282b602c8.png">
 
+### 2022-07-07
+get dirs 
+```
+let fs = require('fs')
+function getDirs(path){
+  let dirs = []
+  const files = fs.readdirSync('path')
+  files.forEach(function (item, index) {
+      let stat = fs.lstatSync(path + item)
+      if (stat.isDirectory() === true) { 
+        dirs.push(item)
+      }
+  })
+  return dirs
+}
+
+
+
 
