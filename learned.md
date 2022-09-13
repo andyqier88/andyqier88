@@ -91,3 +91,5 @@ function getDirs(path){
 https://css-tricks.com/cool-hover-effects-using-background-properties/
 
 https://github.com/JuneAndGreen/tooltpl
+
+https://css-tricks.com/svg-line-animation-works/
